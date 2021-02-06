@@ -1,5 +1,5 @@
 # Reverse_shell
-Reverse_shell Hello Friend, I'm creating an reverse shell in .py using socket module. With this tool you can perform remort command execution!!
+Reverse_shell Hello Friend, I'm creating an reverse shell in .py using socket module. With this tool you can perform remote command execution!!
 
 
 <h3>Make sure that you will Enter the same *target ip* in both server and tool</h3>
