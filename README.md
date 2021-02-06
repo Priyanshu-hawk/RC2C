@@ -2,7 +2,7 @@
 Reverse_shell Hello Friend, I'm creating an reverse shell in .py using socket module. With this tool you can perform remort command execution!!
 
 
-<h2>Make sur that you will Enter the same *target ip* in both server and tool</h2>
+<h3>Make sure that you will Enter the same *target ip* in both server and tool</h3>
 
 # Installation 
 
