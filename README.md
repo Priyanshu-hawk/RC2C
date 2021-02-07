@@ -12,4 +12,7 @@ Reverse_shell Hello Friend, I'm creating an reverse shell in .py using socket mo
   run - pip install socket<br>
   run - pip install subprocess<br>
  
-3. Make sure the your are connected through a network (ethernet, wireless, etc.)
+3. Make sure that your are connected through a network (ethernet, wireless, etc.)
+
+4. You can also perform this on localhost - 127.0.0.1
+
