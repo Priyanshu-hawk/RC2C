@@ -16,7 +16,3 @@ Reverse_shell Hello Friend, I'm creating an reverse shell in .py using socket mo
 
 4. You can also perform this on localhost - 127.0.0.1
 
-<div align="center">
-  <a href="https://youtu.be/WyYWRqqmtwU"><img src="https://img.youtube.com/vi/WyYWRqqmtwU/0.jpg" alt="Priyanshu Patel"></a>
-</div>
-
