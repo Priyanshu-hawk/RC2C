@@ -15,5 +15,8 @@ Reverse_shell Hello Friend, I'm creating an reverse shell in .py using socket mo
 3. Make sure that your are connected through a network (ethernet, wireless, etc.)
 
 4. You can also perform this on localhost - 127.0.0.1
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WyYWRqqmtwU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE"><img src="https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
 
